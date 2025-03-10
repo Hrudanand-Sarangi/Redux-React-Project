@@ -138,9 +138,4 @@ export default function Todo() {
 4. Push changes: `git push origin feature-branch`
 5. Submit a pull request 
 
----
-## 📝 License
-This project is **free to use** and open-source under the [MIT License](LICENSE).
-
-
 
